@@ -1,6 +1,6 @@
 # Bright Data MCP Demo for OpenAI Agents
 
-This project demonstrates how to use the OpenAI Agents framework with Bright Data's MCP (Machine Connection Proxy) Server to create a powerful web scraping agent that can research information about content creators.
+This project demonstrates how to use the OpenAI Agents framework with Bright Data's MCP (Model Context Protocol) Server to create a powerful web scraping agent that can research information about content creators.
 
 ## Overview
 
